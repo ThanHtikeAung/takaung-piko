@@ -1,8 +1,8 @@
 ---
 baseURL: https://piko-heksagon.netlify.app/
 languageCode: en-us
-title: Piko
-theme: piko
+title: First Takaung
+theme: First Takaung
 paginate: "9"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
@@ -37,21 +37,21 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
-  description: Your website description
+  author: Than Htike Aung
+  description: First Takaung Company Website
   math: false
   images:
   - "/uploads/og.webp"
   label:
     title: _Piko Title_
-    text: Welcome to Piko
+    text: Welcome to First Takaung Ltd.
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
   mainSections:
-  - blog
+  - product
   ShowShareButtons: true
   ShowCodeCopyButtons: true
   ShowRelated: true
@@ -74,40 +74,40 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
+    heroTitle: First Takaung
+    heroDescription: Company with innovative ideas
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
-    heroCTASecondaryText: Contact Me
+    heroCTASecondaryText: Contact Us
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
     disableBlogSection: false
-    blogTitle: Latest Posts
-    blogDescription: This is my latest blog posts
-    seeMoreText: More Posts
+    blogTitle: Our Products
+    blogDescription: This is our products
+    seeMoreText: More Products
     # About Section    
     disableAboutSection: false
-    aboutTitle: About
-    aboutDescription: Just something about me
+    aboutTitle: Our Motto
+    aboutDescription: Empowering Tomorrow, One Byte at a Time
     aboutImgUrl: "/uploads/self.webp"
-    aboutContent: Hi guys. This is where you put something about yourself.
+    aboutContent: our mission to drive positive change through technology. We believe that every line of code, every algorithm, and every digital innovation contributes to a brighter future. With unwavering commitment, we harness the power of bytes to create solutions that transform industries, elevate lives, and pave the way for progress. Join us on this journey as we shape tomorrow, byte by byte.
     # Portfolio Section
     disablePortfolioSection: false
-    portfolioTitle: Portfolio
-    portfolioDescription: Some of my works
+    portfolioTitle: Services
+    portfolioDescription: Some of our services
     portfolio:
     - imageUrl: /uploads/portfolio-1.webp
       alt: # image alt for better SEO
-      description: Portfolio One.
+      description: Technical Training
       websiteUrl: #
     - imageUrl: /uploads/portfolio-2.webp
       alt: # image alt for better SEO
-      description: Portfolio Two.
+      description: Customized Business Solution
       websiteUrl: #
     - imageUrl: /uploads/portfolio-3.webp
       alt: # image alt for better SEO
-      description: Portfolio Three.
+      description: Mobile App Development
       websiteUrl: #
   # Search Options (https://fusejs.io/)
   fuseOpts:
@@ -129,10 +129,10 @@ params:
     - link: plugins/js/feather.min.js
 menus:
   main: # Main Menu
-  - name: Blog
-    title: Blog
+  - name: Products
+    title: Products
     pre: pen-tool
-    url: "/blog"
+    url: "/product"
     weight: "20"
   - name: Search
     title: Search
@@ -147,7 +147,7 @@ menus:
   - name: Github
     title: 
     pre: github
-    url: https://github.com/heksagonnet/piko
+    url: https://github.com/orgs/Takaung
     weight: "50"
   search: # Search page's quick links
   - name: Categories
