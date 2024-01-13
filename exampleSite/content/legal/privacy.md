@@ -4,7 +4,7 @@ date: 2021-01-21T23:22:20+08:00
 layout: legal # is necessary
 searchHidden: true
 url: /legal/privacy
-description: This is the privacy policy page for Website Name (Website.com)
+description: This is the privacy policy page for First Takaung Ltd. (www.takaung.com)
 ---
 ## Privacy Policy for Company Name
 At Website Name, accessible at Website.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Website Name and how we use it.

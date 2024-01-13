@@ -4,7 +4,7 @@ date: 2021-01-21T23:22:20+08:00
 layout: legal # is necessary
 searchHidden: true
 url: /legal/terms-and-conditions
-description: This is the terms and conditions page for Website Name (Website.com)
+description: This is the terms and conditions page for First Takaung Ltd. (www.takaung.com)
 ---
 ## Terms and Conditions for Company Name
 ### Introduction

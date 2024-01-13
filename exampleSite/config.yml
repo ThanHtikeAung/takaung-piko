@@ -1,10 +1,10 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://takaung.netlify.app/
 languageCode: en-us
 title: First Takaung
 theme: First Takaung
 paginate: "9"
-copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+copyright: A template by [First Takaung](https://www.takaung.com "Your most friendly developer")
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
 buildDrafts: false
@@ -43,7 +43,7 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
+    title: _First Takaung_
     text: Welcome to First Takaung Ltd.
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg

@@ -1,5 +1,5 @@
 ---
-author: "Hugo Authors"
+author: "Admin"
 title: "Adding Images"
 date: "2022-03-05"
 description: "Guide to adding images in Piko theme"
