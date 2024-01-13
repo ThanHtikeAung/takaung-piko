@@ -76,22 +76,22 @@ params:
     heroUpperTitle: 
     heroTitle: First Takaung
     heroDescription: Company with innovative ideas
-    heroCTAPrimaryText: Blog
-    heroCTAPrimaryUrl: "/blog/"
+    heroCTAPrimaryText: Products
+    heroCTAPrimaryUrl: "/product/"
     heroCTASecondaryText: Contact Us
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "/uploads/portfolio-1.webp"
     # Blog Section
     disableBlogSection: false
     blogTitle: Our Products
-    blogDescription: This is our products
+    blogDescription: These are our products
     seeMoreText: More Products
     # About Section    
     disableAboutSection: false
     aboutTitle: Our Motto
     aboutDescription: Empowering Tomorrow, One Byte at a Time
     aboutImgUrl: "/uploads/self.webp"
-    aboutContent: our mission to drive positive change through technology. We believe that every line of code, every algorithm, and every digital innovation contributes to a brighter future. With unwavering commitment, we harness the power of bytes to create solutions that transform industries, elevate lives, and pave the way for progress. Join us on this journey as we shape tomorrow, byte by byte.
+    aboutContent: Our mission to drive positive change through technology. We believe that every line of code, every algorithm, and every digital innovation contributes to a brighter future. With unwavering commitment, we harness the power of bytes to create solutions that transform industries, elevate lives, and pave the way for progress. Join us on this journey as we shape tomorrow, byte by byte.
     # Portfolio Section
     disablePortfolioSection: false
     portfolioTitle: Services

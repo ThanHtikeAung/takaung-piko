@@ -1,11 +1,11 @@
 ---
-label: Blog
+label: Product
 hide_body: false
 fields:
 - type: text
   name: title
   label: title
-  description: What is the title of your blog?
+  description: What is the title of your product?
 - type: datetime
   name: date
   label: date
