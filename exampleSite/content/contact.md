@@ -11,7 +11,7 @@ showToc: false
 _No.46, Ma Po Street, San Chaung Township, Yangon. PO-11111_
 
 ### Phone:
-_(+95)979 555 8888
+_(+95)979 555 8888_
 
 ### Email
-_contact (at) takaung.com
+_contact (at) takaung.com_
