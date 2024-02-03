@@ -6,12 +6,12 @@ layout: legal
 showToc: false
 ---
 
-## First Takaung Ltd
+# First Takaung Ltd
 ### Address: 
-_No.46, Ma Po Street, San Chaung Township, Yangon. PO-11111_
+_No.46, Ma Po Street, San Chaung Township, Yangon, Myanmar. PO-11111_
 
 ### Phone:
 _(+95)979 555 8888_
 
-### Email
+### Email: 
 _contact (at) takaung.com_
