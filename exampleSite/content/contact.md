@@ -2,7 +2,7 @@
 title: 'Contact Us' # in any language you want
 # url: "/archive"
 description: 'How can I help you?'
-layout: contact
+layout: legal
 showToc: false
 ---
 
